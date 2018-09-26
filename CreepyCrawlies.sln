@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CreepyCrawlies", "CreepyCrawlies.vcproj", "{539F5CE6-7AB5-4F7A-8E4E-4E25D5C25660}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{539F5CE6-7AB5-4F7A-8E4E-4E25D5C25660}.Debug.ActiveCfg = Debug|Win32
+		{539F5CE6-7AB5-4F7A-8E4E-4E25D5C25660}.Debug.Build.0 = Debug|Win32
+		{539F5CE6-7AB5-4F7A-8E4E-4E25D5C25660}.Release.ActiveCfg = Release|Win32
+		{539F5CE6-7AB5-4F7A-8E4E-4E25D5C25660}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
