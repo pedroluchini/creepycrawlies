@@ -1,4 +1,4 @@
-Creepy Crawlies - An experiment in procedural animation
+## Creepy Crawlies - An experiment in procedural animation
 
 What if you could design a character, and then watch as it learns to move all by
 itself?
@@ -19,7 +19,7 @@ about it.
 
 Please keep in mind that this is an experiment/prototype, and it has some bugs.
 
-## BUILDING THE PROGRAM
+## Building the program
 
 This package includes Visual Studio 2003 solution/project files, as well as all
 necessary dependencies (libraries and headers). Building the program should be
@@ -28,7 +28,7 @@ as easy as opening CreepyCrawlies.sln and hitting the "Build" button.
 The executable is generated in the output folder. Both Debug and Release
 versions are generated there. 
 
-## ACKNOWLEDGEMENTS
+## Acknowledgements
 
 This package includes parts of Matthew Wall's genetic algorithms library, GALib.
 The full library can be found at the following address:
