@@ -37,4 +37,4 @@ http://lancet.mit.edu/ga/
 
 Also included are the binaries of Haaf's Game Engine, which is available here:
 
-http://hge.relishgames.com
+https://github.com/kvakvs/hge
